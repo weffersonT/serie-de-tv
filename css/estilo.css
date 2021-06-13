@@ -1,0 +1,37 @@
+body {
+    background: url(../imagens/Game%20of%20Thrones%20Wallpaper.jpg);
+    background-size: 100%;
+
+    
+}
+
+
+
+.subtitulo{
+    border-bottom: 10px solid #333;
+    font-family: "Arial";
+}
+
+h2{
+    font-size: 25px;
+    color: #9daa05;
+}
+
+h1{
+    color: #9daa05;
+}
+
+ul{
+    color: #9daa05;
+}
+#container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 20px 30px 20px
+    
+    }
+
+p{
+    color: #dee863;
+}
